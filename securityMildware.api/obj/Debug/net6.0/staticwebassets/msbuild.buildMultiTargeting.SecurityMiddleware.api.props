@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SecurityMiddleware.api.props" />
+</Project>
